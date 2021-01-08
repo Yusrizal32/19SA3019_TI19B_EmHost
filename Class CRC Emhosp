@@ -1,0 +1,13 @@
+Class Name = Kelas EmHosp 
+Superclass = Kelas User EmHosp 
+Subclass = Kelas Pengguna, Kelas Driver supir, Kelas Emergency 
+
+Responsibillities 
+Nama 
+Layanan 
+Panggilan Darurat 
+Pelayanan Darurat Cepat 
+
+Collaborators 
+Kelas Driver Ambulance 
+Kelas Pendataan Pasien darurat 
